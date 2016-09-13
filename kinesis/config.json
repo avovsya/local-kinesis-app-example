@@ -1,0 +1,9 @@
+{
+  "accessKeyId": "FAKE",
+  "secretAccessKey": "FAKE",
+  "region": "FAKE",
+  "kinesisEndpoint": "http://localhost:4567",
+  "kinesisPort": 4567,
+  "StreamName": "stream-name",
+  "ShardCount": 1
+}
